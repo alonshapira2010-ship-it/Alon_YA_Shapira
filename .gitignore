@@ -13,3 +13,10 @@
 .externalNativeBuild
 .cxx
 local.properties
+/gradle.
+/build/**
+idea/tasks.xml
+*.jks
+*.keystore
+.env
+secrets.properties
